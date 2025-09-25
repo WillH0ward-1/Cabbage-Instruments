@@ -8,8 +8,8 @@ Using simple markup text and the Csound audio synthesis language users can targe
 
 What is CsoundUnity?:
 Csound wrapper for the Unity game engine.
-(Rory Walsh, [CsoundUnity] https://github.com/rorywalsh/CsoundUnity))
+(Rory Walsh, [CsoundUnity](https://github.com/rorywalsh/CsoundUnity))
 
 More info:
-https://www.youtube.com/watch?v=C9vFZTRVfSg
+[Unity Implementation Video Tutorial](https://www.youtube.com/watch?v=C9vFZTRVfSg)
 (Rory Walsh, Cabbage / CsoundUnity)
